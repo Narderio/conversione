@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ascoltatore
+comment1.params=numero\ cb\ convertito
+comment1.target=ascoltatore(javax.swing.JTextField,\ javax.swing.JComboBox,\ javax.swing.JTextField)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Conversione
+comment1.params=a
+comment1.target=int\ stringtoint(java.lang.String)
+comment2.params=num
+comment2.target=java.lang.String\ decimale(java.lang.String)
+comment3.params=a
+comment3.target=java.lang.String\ binario(java.lang.String)
+comment4.params=a
+comment4.target=java.lang.String\ reverse(java.lang.String)
+numComments=5
